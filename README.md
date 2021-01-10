@@ -1,0 +1,2 @@
+# AzureFunctionTypescriptPlayground
+Azure Function Typescript playground
